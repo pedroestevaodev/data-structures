@@ -1,12 +1,12 @@
-# Data Structures - Barão de Mauá University Center
+# Data Structures - Centro Universitário Barão de Mauá
 
 <p style="text-align: center;">
     <a href="https://demo.nextjs-boilerplate.com">
-        <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1739232898/github/mto1tierlcwn8pq4fh8r.webp" alt="Logo Barão de Mauá University Center" />
+        <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1739232898/github/mto1tierlcwn8pq4fh8r.webp" alt="Logo Centro Universitário Barão de Mauá" />
     </a>
 </p>
 
-This repository contains the projects developed during the **Data Structures** course, taken in the **4th semester** of the **Computer Science** program at **Barão de Mauá University Center**, under the guidance of professor **Felipe Carvalho Pellison**.
+This repository contains the projects developed during the **Data Structures** course, taken in the **4th semester** of the **Computer Science** program at **Centro Universitário Barão de Mauá**, under the guidance of professor **Felipe Carvalho Pellison**.
 
 All codes were implemented in **C++**, exploring fundamental concepts for building efficient algorithms and managing data in different structures.
 
